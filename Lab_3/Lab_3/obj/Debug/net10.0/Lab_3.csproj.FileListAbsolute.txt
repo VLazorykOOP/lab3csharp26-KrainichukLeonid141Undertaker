@@ -1,0 +1,14 @@
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.exe
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.deps.json
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.runtimeconfig.json
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.pdb
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.AssemblyInfoInputs.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.AssemblyInfo.cs
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.csproj.CoreCompileInputs.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\refint\Lab_3.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.pdb
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.genruntimeconfig.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-3\Lab_3\Lab_3\obj\Debug\net10.0\ref\Lab_3.dll
